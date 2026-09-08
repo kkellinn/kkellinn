@@ -4,13 +4,10 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hello+World%2C+I'm+Lily+%F0%9F%90%8D;Self-taught+%7C+Python+Learner;Turning+%E2%98%95+into+%3C%2Fcode%3E;Currently+debugging+life...+and+code;Welcome+to+my+profile+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hello+World%2C+I'm+Lily+%F0%9F%90%8D;UESTC+%7C+Python+Learner;Turning+%E2%98%95+into+%3C%2Fcode%3E;Currently+debugging+life...+and+code;Welcome+to+my+profile+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="500">
-</p>
 
 ---
 
