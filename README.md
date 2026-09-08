@@ -18,7 +18,7 @@
 
 
 
-- 🔭 Learning on Python MachineLearning
+- 🔭 Learning on MachineLearning
 - 🌱 Research ： CL-LoRA Dark Experience
 - 👯 I Like Anno
 
