@@ -16,31 +16,12 @@
 
 ### 🌸 About Me
 
-```python
-class Lily:
-    def __init__(self):
-        self.name = "Lily"
-        self.role = "Student / Self-taught Developer 🐣"
-        self.language = ["Python"]
-        self.currently_learning = "Python & Software Engineering"
-        self.goal = "Become a 大佬 一步一步来 💪"
 
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something cool 🚀")
 
-me = Lily()
-me.say_hi()
-```
+- 🔭 Learning on Python MachineLearning
+- 🌱 Research ： CL-LoRA Dark Experience
+- 👯 I Like Anno
 
-- 🔭 我正在自学 **Python**，努力打好编程基础
-- 🌱 我正在学习：数据结构与算法、Python 生态相关知识
-- 👯 我想找志同道合的朋友一起学习 / 一起做小项目
-- 🤔 遇到 bug 时欢迎和我讨论，一起互相学习
-- 💬 可以和我聊：Python、学习方法、新手成长路线
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: 我相信每一个 bug 都是通往"大佬"路上的经验值 💯
-
----
 
 ### 🛠️ Tech Stack
 
